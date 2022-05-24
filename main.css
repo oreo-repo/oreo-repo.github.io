@@ -1,7 +1,14 @@
 #startingHeader {
     color:rgb(34, 256, 34);
     font-family: Arial, sans-serif;
+    font-weight: bold;
     }
 
-#webLogo {
+#site {
+    background-color: darkolivegreen;
+}
+
+#siteMainBody {
+    color: lightcyan;
+    font-family: Arial, sans-serif;
 }
